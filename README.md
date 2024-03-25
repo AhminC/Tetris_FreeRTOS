@@ -60,3 +60,6 @@ This module defines the FreeRTOS tasks, such as blinking an LED, handling gravit
 
 ## Setup and Loop Functions
 The setup() function initializes the hardware components, seeds the random number generator, and creates the FreeRTOS tasks. The loop() function is empty, as the tasks are managed by the FreeRTOS scheduler.
+
+# Hardware Setup
+![graph](Tetris_FreeRTOS/doc/ref1.png)
